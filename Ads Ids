@@ -21,13 +21,13 @@
     },
     "Facebookaudiencenetwork": {
       "ad_showAdStatus": "1",
-      "Banner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Interstitial1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Interstitial2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Interstitial3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Native1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "NativeBanner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "Fb_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Fb_Interstitial1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Fb_Interstitial2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Fb_Interstitial3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Fb_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Fb_RewardedVideo": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Fb_NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
   }
 }
